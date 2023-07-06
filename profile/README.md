@@ -6,8 +6,8 @@ Welcome to Quest Keeper, an application for Dungeons and Dragons enthusiasts, pa
 
 Quest Keeper consists of two main components:
 
-1. **Frontend:** Built using React.js, it provides a dynamic and user-friendly interface.
-2. **Backend:** Developed using Ruby on Rails, it acts as an API server to manage the data.
+1. **[Frontend](https://github.com/Quest-Keeper/dm_toolkit):** Built using React.js, it provides a dynamic and user-friendly interface.
+2. **[Backend](https://github.com/Quest-Keeper/dm_toolkit_server):** Developed using Ruby on Rails, it acts as an API server to manage the data.
 
 ## Frontend
 
