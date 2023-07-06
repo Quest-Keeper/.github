@@ -1,6 +1,6 @@
 # Quest Keeper
 
-Welcome to the Quest Keeper GitHub organization! Quest Keeper is an application for Dungeons and Dragons enthusiasts, particularly Dungeon Masters, to help in managing and enhancing gameplay.
+Welcome to Quest Keeper, an application for Dungeons and Dragons enthusiasts, particularly Dungeon Masters, to help in managing and enhancing gameplay.
 
 ## Overview
 
